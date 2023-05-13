@@ -1,0 +1,2 @@
+include jupyter_v_kernel/resources/master.v
+include README.md LICENSE
